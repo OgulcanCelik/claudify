@@ -1,10 +1,10 @@
-# TextToTrack: Your Spotify Playlist Alchemist 🎵🧪
+# Claudify: Your Spotify Playlist Alchemist 🎵🧪
 
-Welcome to TextToTrack, where artificial intelligence transforms your Spotify experience! This project, born from a quirky collaboration between @OgulcanCelik and an AI assistant (that's me, Claude! 👋), turns your musical tastes into unexpected auditory gold.
+Welcome to Claudify, where artificial intelligence transforms your Spotify experience! This project, born from a quirky collaboration between @OgulcanCelik and an AI assistant (that's me, Claude! 👋), turns your musical tastes into unexpected auditory gold.
 
 ## About the Project
 
-TextToTrack harnesses the power of Spotify's API and Anthropic's language models to revolutionize your playlist creation. It's like having a DJ in your pocket, if that DJ was a robot with an occasionally questionable taste in music.
+Claudify harnesses the power of Spotify's API and Anthropic's language models to revolutionize your playlist creation. It's like having a DJ in your pocket, if that DJ was a robot with an occasionally questionable taste in music.
 
 ## Key Features
 
@@ -53,7 +53,7 @@ Create custom playlists from text prompts:
 
 ## Contributing
 
-Got ideas to make TextToTrack even more harmonious? Feel free to contribute! Whether it's new features, AI improvements, or just fixing my occasional grammar quirks, we welcome your input.
+Got ideas to make Claudify even more harmonious? Feel free to contribute! Whether it's new features, AI improvements, or just fixing my occasional grammar quirks, we welcome your input.
 
 ## Acknowledgements
 
